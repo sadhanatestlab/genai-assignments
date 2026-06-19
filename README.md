@@ -1,0 +1,2 @@
+# genai-assignments
+GenAI Assingments
